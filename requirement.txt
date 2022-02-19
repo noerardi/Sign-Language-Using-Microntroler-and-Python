@@ -1,0 +1,10 @@
+This some requirement you need to make this project:
+Python 3.9.0 or newest
+Library gTTS
+Arduino Uno
+Arduino Uno Software IDE
+5 Flex Sensors
+5 10k ohm resistors 
+1 Gloves [better from cotton]
+4m or more wire
+PC/laptop with minimum 4GB RAM
